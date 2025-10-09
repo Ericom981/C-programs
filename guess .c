@@ -1,6 +1,6 @@
-/*Name:Eric kamau ng'ang'a
+i/*Name:Eric kamau ng'ang'a
 Reg. number:CT101/G/26471/25
-Description;count 100 to 50 in descending
+Description;guess number game
 */
 
 #include <stdio.h>
